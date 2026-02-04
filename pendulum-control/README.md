@@ -1,7 +1,7 @@
 # Inverted Pendulum GNC Project — Project Board
 
 ##  Backlog
-- [ ] Read control theory book (linear systems, observability, controllability)
+- [ *] Read control theory book (linear systems, observability, controllability)
 - [ ] Review Lyapunov stability methods
 - [ ] Learn LQR fundamentals
 - [ ] Sketch inverted pendulum physical concept
@@ -12,11 +12,11 @@
 
 ## ✅ Phase 0 — Control Foundations (Dec–Jan)
 
-- [ ] Read control theory book daily
-- [ ] Work example problems
-- [ ] Simulate linear systems
-- [ ] Prove basic system stability
-- [ ] Create inverted pendulum state definitions
+- [ *] Read control theory book daily
+- [ *] Work example problems
+- [ *] Simulate linear systems
+- [ *] Prove basic system stability
+- [ *] Create inverted pendulum state definitions
 
 ---
 
